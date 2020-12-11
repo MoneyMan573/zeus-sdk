@@ -18,7 +18,7 @@
     "distUrl": "https://s3.us-east-2.amazonaws.com/liquidapps.artifacts"
   },
   "dependencies": {
-    "is-wsl": "^2.0.0",
+    "is-wsl": "^2.2.0",
     "big-integer": "^1.6.36",
     "bytebuffer": "^5.0.1",
     "chalk": "^2.4.1",
