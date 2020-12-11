@@ -23,7 +23,7 @@
     "bytebuffer": "^5.0.1",
     "chalk": "^2.4.1",
     "dotenv": "^6.1.0",
-    "go-ipfs-dep": "^0.4.20",
+    "go-ipfs-dep": "^0.7.0",
     "node-emoji": "^1.8.1",
     "nodemon": "^1.18.5",
     "prompt": "^1.0.0",
